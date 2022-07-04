@@ -1,0 +1,6 @@
+This is the 2nd chapter.
+In this chapter we will go through some interesrting tasks.
+We will learn about Python, it's various libraries, SQL, guesstimates, WebDevelopment 
+and many more things are on your way.
+So what are you waiting for!!!!!
+Just go and learn namaste 👍👍
